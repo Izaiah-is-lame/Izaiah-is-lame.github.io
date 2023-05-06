@@ -5,9 +5,15 @@ body{
 }
 h1{
     color: white;
+    text-align: center;
+}
+h6{
+    color: white;
+    text-align: center;
 }
 p{
     color: white;
+    text-align: center;
 }
 button {
     border: none;
