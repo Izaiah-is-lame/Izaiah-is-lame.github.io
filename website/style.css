@@ -39,3 +39,11 @@ button {
   align-items: center;
   height: 50px;
 }
+.canvas-container {
+   width: 100%;
+   text-align:center;
+}
+
+canvas {
+   display: inline;
+}
