@@ -33,3 +33,9 @@ button {
   margin-right: auto;
   width: 50%;
 }
+.centerbutton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+}
