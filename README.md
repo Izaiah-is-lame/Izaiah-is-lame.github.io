@@ -1,3 +1,3 @@
 # Izaiah-is-lame.github.io
 
-is
+To Use  - - Type the Name of This Repository With a /website/ at the End and ~Viola~
