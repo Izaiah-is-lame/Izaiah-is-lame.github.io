@@ -4,8 +4,13 @@ body{
     
 }
 h1{
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
+    background-image: url('2b115adb901249d9fd7957de21397905.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;   
+    font-size: 350px
 }
 h2{
     color: white;
